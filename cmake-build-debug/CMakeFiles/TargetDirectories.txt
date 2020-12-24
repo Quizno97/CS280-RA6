@@ -1,0 +1,3 @@
+C:/Users/tyrre/CLionProjects/RA6/cmake-build-debug/CMakeFiles/RA6.dir
+C:/Users/tyrre/CLionProjects/RA6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tyrre/CLionProjects/RA6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
